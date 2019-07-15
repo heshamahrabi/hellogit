@@ -2,10 +2,15 @@ Hallo Git 2
 
 
 this ist a new feature
+
  
 
 this is a new title
 this is my feature
 
-
 this is the end 	
+
+
+
+this is another new feature. 	
+
