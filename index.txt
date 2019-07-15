@@ -2,4 +2,6 @@ Hallo Git 2
 
 
 this ist a new feature
- 	
+
+
+this is another new feature. 	
